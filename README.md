@@ -1,6 +1,6 @@
-# Hi, I'm Dolgar
+# Hi, I'm Dolgar, 
 
-Fullstack developer, eager to embark in a new impossible story, If the impossible can be coding, even better!
+Fullstack developer
 
 ## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dolgarRC)
 
