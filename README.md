@@ -2,7 +2,7 @@
 
 Fullstack developer, passionate for what I do, eager to try stuff out, break things and piece them back together!
 
-Barcelona based
+Barcelona based<br/>
 Hit me up at dolgarrenan@mac.com
 
 ## 🌐 Socials:
