@@ -3,7 +3,7 @@
 Fullstack developer, passionate for what I do, eager to try stuff out, break things and piece them back together!
 
 Barcelona based<br/>
-Hit me up at dolgarrenan@mac.com
+Contact: dolgarrenan@mac.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dolgarRC)
